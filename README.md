@@ -1,5 +1,6 @@
 ### Hi there 👋
 ``` 
+Lazy people got the easiest solution.
 ```
 
 <!--
