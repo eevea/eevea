@@ -1,6 +1,6 @@
 ### Hi there 👋
 ``` 
-Lazy people got the easiest solution.
+Lazy people get the easiest solution.
 ```
 
 <!--
