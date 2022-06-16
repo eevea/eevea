@@ -2,7 +2,7 @@
 ``` 
 Lazy people get the easiest solution.
 ```
-
+If you need help with building visual studio code from source , ask me.
 <!--
 **mysterious-dark/mysterious-dark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
